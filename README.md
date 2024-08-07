@@ -9,6 +9,17 @@
 *  Add movie to favorite
 *  Save a poster to gallery
 
+## Screenshots
+<p>
+  <img src="https://github.com/jc-wu1/my_movies/blob/master/screenshot/android1.png" width="250" />
+  <img src="https://github.com/jc-wu1/my_movies/blob/master/screenshot/android2.png" width="250" />
+  <img src="https://github.com/jc-wu1/my_movies/blob/master/screenshot/android3.png" width="250" />
+  <img src="https://github.com/jc-wu1/my_movies/blob/master/screenshot/android4.png" width="250" />
+  <img src="https://github.com/jc-wu1/my_movies/blob/master/screenshot/android5.png" width="250" />
+  <img src="https://github.com/jc-wu1/my_movies/blob/master/screenshot/android6.png" width="250" />
+  <img src="https://github.com/jc-wu1/my_movies/blob/master/screenshot/android7.png" width="250" />
+  <img src="https://github.com/jc-wu1/my_movies/blob/master/screenshot/android8.png" width="250" />
+</p>
 
 ## Quick start
 This is a Flutter project. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
