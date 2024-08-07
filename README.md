@@ -1,7 +1,7 @@
 # MyMovie
 
-# ⚠️ Warning! This project was created and tested only on Android devices
-# ⚠️ Any errors occurring when running this project on iOS are not the developer's responsibility
+## ⚠️ Warning! This project was created and tested only on Android devices
+## ⚠️ Any errors occurring when running this project on iOS are not the developer's responsibility
 
 ## Features
 *  Guess login
